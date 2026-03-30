@@ -1,4 +1,4 @@
-# <img src="img2.png" width="250"> Bienvenid@ al GitHub de Alejandro Cómina
+# <img src="img2.png" width="120"> Bienvenid@ al GitHub de Alejandro Cómina
 ![Banner de Alejandro Cómina](banner.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@rcomina)
