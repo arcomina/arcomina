@@ -38,13 +38,12 @@ Desarrollador apasionado por la **tecnología** y la **programación**, actualme
 # 🚀 Mi Base de Conocimiento (Fullstack)
 
 Selecciona el lenguaje que deseas consultar:
-* [🐍 Python Course](./python-course/README.md)
-* [☕ Java Course](./java-course/README.md)
-* [🌐 JavaScript Course](./javascript-course/README.md)
 
-![Stats]("https://github-readme-stats.vercel.app/api?username=arcomina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40")
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python-course/README.md)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](./java-course/README.md)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](./javascript-course/README.md)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcomina&layout=compact&theme=dark)
+
 
 
 ---
